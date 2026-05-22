@@ -59,6 +59,7 @@ Just send a pull request or open an [issue](https://github.com/nqcm/learning-blo
 1. [Learning Solidity Tutorials on Youtube](https://www.youtube.com/playlist?list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg)
 1. [Beginners' Guide to Smart Contracts in Solidity](https://www.youtube.com/watch?v=R_CiemcFKis&list=PLQeiVDgMaJcWnAZLElXKLZhS5a71Sxzw0)
 1. [Create Your Own Ethereum Blockchain](https://www.youtube.com/watch?v=SKXYYnmjauQ&list=PLQeiVDgMaJcVYH3hH29lgBpxog9S82o6a)
+2. [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ## Articles and Blogs
 
